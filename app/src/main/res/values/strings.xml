@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="play">Jouer</string>
+    <string name="level">Niveau</string>
+    <string name="winOrLoose">Gagné</string>
+    <string name="scoreTitle">Score :</string>
+    <string name="score">1000</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="menu">Menu</string>
+    <string name="brickBreaker">Brick Breaker</string>
+    <string name="companyName">by NutGaming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="levelTitle">Sélectionnez un niveau</string>
+</resources>
